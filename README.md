@@ -259,13 +259,7 @@ For the best development experience, open the project in **Visual Studio Code** 
 
 ## 🌐 Live Deployment
 
-> 🚀 **Live Demo:** Add your deployed project link here.
-
-Example:
-
-```text
-https://yourusername.github.io/TaskMaster-Pro/
-```
+> 🚀 **Live Demo:** [📝 TaskMaster Pro](https://sanikadshinde264.github.io/TaskMaster-Pro/)
 
 ## 🔮 Future Work
 
