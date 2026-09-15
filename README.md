@@ -294,7 +294,6 @@ This project helped develop practical skills in:
 
 * 📧 Email: [sanikadshinde264@gmail.com](mailto:sanikadshinde264@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/sanikadshinde264](https://www.linkedin.com/in/sanikadshinde264)
-* 💻 GitHub: [github.com/sanikadshinde264](https://github.com/sanikadshinde264)
 
 ## 📄 License
 
