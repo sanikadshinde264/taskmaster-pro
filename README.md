@@ -161,7 +161,7 @@ CSS Flexbox, Grid, and responsive design techniques are used to provide a consis
 ## 📁 Project Directory Structure
 
 ```text
-TaskMaster-Pro/
+taskmaster-pro/
 │
 ├── index.html
 ├── style.css
@@ -259,7 +259,7 @@ For the best development experience, open the project in **Visual Studio Code** 
 
 ## 🌐 Live Deployment
 
-> 🚀 **Live Demo:** [📝 TaskMaster Pro](https://sanikadshinde264.github.io/TaskMaster-Pro/)
+> 🚀 **Live Demo:** [📝 TaskMaster Pro](https://sanikadshinde264.github.io/taskmaster-pro/)
 
 ## 🔮 Future Work
 
